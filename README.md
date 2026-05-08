@@ -1,6 +1,6 @@
 # Hydra Sentinel 2: Deterministic Execution Architecture
 *Proprietary High-Frequency Data Engine Optimized for Apple Silicon*
-
+By: Scott H 
 ## Executive Overview
 This repository serves as the public architectural overview for the Hydra Sentinel 2 system. Due to the proprietary nature of the C++ lockless shared-memory engine, live market conflation logic, and institutional-grade IP, all source code is strictly maintained in private, secure vaults. 
 
