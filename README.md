@@ -13,8 +13,8 @@ This system is designed for extreme-throughput environments, replacing cloud-lat
 * **Forensic Auditing:** Real-time V6 Omni-Matrix telemetry providing live toxicity checks and deterministic risk ledgers.
 
 
+<img width="519" height="394" alt="Screenshot 2026-05-07 at 6 27 17 PM" src="https://github.com/user-attachments/assets/990a81fa-12ad-4dce-8d25-9d2a1f3e9d01" />
 
-<img width="536" height="449" alt="Screenshot 2026-05-07 at 6 06 20 PM" src="https://github.com/user-attachments/assets/22de9713-9469-4c70-8188-76e6d165c3a5" />
 <img width="949" height="775" alt="Screenshot 2026-05-07 at 6 25 14 PM" src="https://github.com/user-attachments/assets/01752abc-3bcf-4ade-80c8-f5f60ee01af9" />
 
 <img width="1409" height="804" alt="Screenshot 2026-05-07 at 6 08 06 PM" src="https://github.com/user-attachments/assets/7479e8e9-1ca2-4c41-b543-c3a2cb08482c" />
